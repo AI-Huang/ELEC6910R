@@ -1,17 +1,21 @@
-# Outline
-## Tutorials
-[Course_Project_Tutorial.md](./Course_Project_Tutorial.md)
+# Hard Schedules
 
-## Homework|Assignments
-1. Homework 4  
-[hw4-5-draft.latest.md](./hw4-5-draft.latest.md)
-2. Homework 5  
-[hw4-5-draft.latest.md](./hw4-5-draft.latest.md)
+## before 25 May, 2018
+Test the following algorithms:  
+1. kmeans  
+2. Meanshift  
+3. ICP_k  
+4. PCA and Eigenfaces  
 
-## Contact
-HUANG, Kan  
-TA of ELEC6910R|COMP6211C  
-RamLab, Robotic Institute, Dept. ECE, HKUST  
-Room 2011, CYT Building, HKUST  
-kan.huang.hkust@gmail.com|kan.huang@connect.ust.hk  
+And submit a tiny report to me through kan.huang.hkust@gmail.com|kan.huang@connect.ust.hk  
 
+dataset: whatever  
+code by your own: whatever  
+language: whatever  
+etc  
+
+just as easy as possible, even a single tutorial is just fine  
+
+further workload will be released as soon as possible, depending on the course schedule (whether can be extended or not), and it won't be too harsh  
+
+That's all, thx  
